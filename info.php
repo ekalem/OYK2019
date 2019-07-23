@@ -22,15 +22,11 @@ echo "Merhaba Dünya!"; // Ekrana yazdırma komutu
 <?php
 $sayi = $ GET["sayi"];
 echo "SAYI değişkeni değeri: $sayi "
+?>
 
 <?php
 phpinfo(); // PHP Version bilgilerini ekrana yazdırır.
 ?>
-
-
-
-
-
 
 </body>
 
