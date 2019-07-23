@@ -10,8 +10,6 @@ phpinfo(); // PHP Version bilgilerini ekrana yazdırır.
 <h1>Merhaba PHP</h1> <!-- h1 başlığı -->
 
 <?php
-
-<?php
 echo "Merhaba Dünya!"; // Ekrana yazdırma komutu
 ?>
 
@@ -39,11 +37,13 @@ echo "<pre>"
 print_r($isimler);
 ?>
 
+/*
 <?php
 phpinfo(); // PHP Version bilgilerini ekrana yazdırır.
 ?>
+*/
 
-?>
+
 </body>
 
 </html>
